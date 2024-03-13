@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\documents\\final project\\serverproject\\serverproject\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\documents\\final project\\serverproject\\serverproject\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\documents\\final project\\serverproject\\serverproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\documents\\final project\\serverproject\\serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9B5FB7-16E9-4F6D-9E28-C5EF22FF203F}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "ServerProject\\Controllers\\RecipeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:36:27.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ServerProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:36:20.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Recipe.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Recipe.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Recipe.cs",
+              "RelativeToolTip": "ServerProject\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:07:15.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Program.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Documents\\Final Project\\ServerProject\\ServerProject\\Program.cs",
+              "RelativeToolTip": "ServerProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:07:54.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

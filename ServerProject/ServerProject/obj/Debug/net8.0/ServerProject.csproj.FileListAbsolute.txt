@@ -1,0 +1,92 @@
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\appsettings.Development.json
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\appsettings.json
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.exe
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.deps.json
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.runtimeconfig.json
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.pdb
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.AssemblyReference.cache
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfoInputs.cache
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfo.cs
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.CoreCompileInputs.cache
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cs
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cache
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.ServerProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ServerProject.props
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServerProject.props
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServerProject.props
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\scopedcss\bundle\ServerProject.styles.css
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerPr.A886E461.Up2Date
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\refint\ServerProject.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.pdb
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.genruntimeconfig.cache
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ref\ServerProject.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\System.CommandLine.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\cs\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\de\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\es\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\fr\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\it\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ja\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ko\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\pl\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ru\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\tr\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\רבקי -תכנות\שנה יד\Angular\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\appsettings.json
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.exe
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.deps.json
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.runtimeconfig.json
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.pdb
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\System.CommandLine.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\cs\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\de\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\es\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\fr\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\it\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ja\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ko\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\pl\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\ru\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\tr\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\bin\Debug\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.AssemblyReference.cache
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfoInputs.cache
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfo.cs
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.CoreCompileInputs.cache
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.ServerProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ServerProject.props
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServerProject.props
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServerProject.props
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\scopedcss\bundle\ServerProject.styles.css
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerPr.A886E461.Up2Date
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\refint\ServerProject.dll
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.pdb
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.genruntimeconfig.cache
+C:\Users\אסתר\Documents\Final Project\ServerProject\ServerProject\obj\Debug\net8.0\ref\ServerProject.dll
